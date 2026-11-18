@@ -17,7 +17,7 @@
 
 ---
 
-# 🇪🇸 Sobre mí
+# Sobre mí
 
 ## Soy un desarrollador en formación enfocado en construir soluciones de software prácticas y seguir fortaleciendo mis habilidades técnicas.
 
