@@ -1,12 +1,12 @@
- Hi 👋
+ # Hi 👋
 
- I'm a Software Developer in Progress
+ # I'm a Software Developer in Progress
 
- Software Development | Full Stack | Automation and Industrial Robotics
+ ## Software Development | Full Stack | Automation and Industrial Robotics
 
-I'm a developer focused on building practical software solutions and continuously improving my technical skills.
+# I'm a developer focused on building practical software solutions and continuously improving my technical skills.
 
-My background combines expertise in automation and robotics with software development, which allows me to approach problems from different technological and engineering perspectives.
+## My background combines expertise in automation and robotics with software development, which allows me to approach problems from different technological and engineering perspectives.
 
 - 🎓 Technologist in Automation and Industrial Robotics— ECCI University (Mechatronics Engineering)
 - 🎓 Software Analysis and Development — SENA (ADSO)
@@ -17,11 +17,11 @@ My background combines expertise in automation and robotics with software develo
 
 ---
 
- 🇪🇸 Sobre mí
+# 🇪🇸 Sobre mí
 
-Soy un desarrollador en formación enfocado en construir soluciones de software prácticas y seguir fortaleciendo mis habilidades técnicas.
+## Soy un desarrollador en formación enfocado en construir soluciones de software prácticas y seguir fortaleciendo mis habilidades técnicas.
 
-Mi formación combina conocimientos en automatización y robótica con el desarrollo de software, lo que me permite abordar problemas desde diferentes perspectivas tecnológicas y de ingeniería.**
+## Mi formación combina conocimientos en automatización y robótica con el desarrollo de software, lo que me permite abordar problemas desde diferentes perspectivas tecnológicas y de ingeniería.
 
 - 🎓 Tecnólogo en Automatización y Robótica Industrial — Universidad ECCI (Ingeniería Mecatrónica)
 - 🎓 Análisis y Desarrollo de Software — SENA (ADSO)
@@ -32,8 +32,9 @@ Mi formación combina conocimientos en automatización y robótica con el desarr
 
 
 
-🛠️ Technologies & Tools
-*Currently working with
+# 🛠️ Technologies & Tools
+
+## Currently working with
 
 - HTML5
 - CSS3
@@ -42,7 +43,7 @@ Mi formación combina conocimientos en automatización y robótica con el desarr
 - Node.js
 - Git & GitHub
 
-Currently learning
+## Currently learning
 
 - TypeScript
 - Express.js
@@ -52,7 +53,7 @@ Currently learning
 
 ---
 
- 🚀 Featured Projects
+# 🚀 Featured Projects
 
 | Project                                                 | Description                                                    | Technologies               |
 | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------- |
@@ -63,16 +64,15 @@ Currently learning
 | [SaveAndShop](https://github.com/Juancbr99/SaveAndShop) | Product-saving interface with prices and links.                | Web Development            |
 
 ---
+# 📈 My Journey
 
- 📈 My Journey
+## I'm continuously learning, building projects and improving my software development skills.
 
-I'm continuously learning, building projects and improving my software development skills.
-
-I believe in learning by building, solving problems and sharing progress through code.
+## I believe in learning by building, solving problems and sharing progress through code.
 
 ---
 
- 📫 Let's Connect
+# 📫 Let's Connect
 
 - GitHub: [@Juancbr99](https://github.com/Juancbr99)
 
